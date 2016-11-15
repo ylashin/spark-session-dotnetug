@@ -1,4 +1,4 @@
-# Presentation and material for Spark session at .net user group BNS
+# Presentation and material for Spark session at Brisbane .net user group
 
 
 ##Links:

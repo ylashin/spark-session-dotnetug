@@ -30,7 +30,7 @@ sc.makeRDD(counts.toList).saveAsTextFile("d:\\files\\iis-logs-aggregation");
 
 =====================================================================
 // Car crashes
-// search in Azure data market places (https://datamarket.azure.com/browse/data) for USA car crash 2011
+// search in [Azure data market places](https://datamarket.azure.com/browse/data) for **USA car crash 2011**
 // Then import it in a SQL server instance and update the below connection string details
 spark-shell -deprecation --driver-class-path c:\windows\system32\sqljdbc42.jar --jars c:\windows\system32\sqljdbc42.jar
 
@@ -105,7 +105,7 @@ pw.write(toGexf(graph));
 pw.close;
 //======================================================================================
 // Twitter Streaming
-// Source code and instructions are in another repo : https://github.com/ylashin/HadoopPD/blob/master/readme/SparkStreaming.md
+// Source code and instructions are in another [repo](https://github.com/ylashin/HadoopPD/blob/master/readme/SparkStreaming.md)
 // The example in the demo was tweaked to filter incoming twitter stream for tweets with a certain keyword				
 
 wget https://yousry1.blob.core.windows.net/public/sparky-azure.jar
