@@ -1,6 +1,5 @@
 # Presentation and material for Spark session at Brisbane .net user group
 
-
 ## Links:
-* [Presentation](Big data made easy with Spark.pptx)
+* [Presentation](Big%20data%20made%20easy%20with%20Spark.pptx)
 * [Scripts](Scripts.scala)
